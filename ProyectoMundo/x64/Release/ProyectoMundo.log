@@ -1,0 +1,3 @@
+﻿  stdafx.cpp
+  ProyectoMundo.cpp
+LINK : fatal error LNK1181: no se puede abrir el archivo de entrada 'sfml-graphics.lib  sfml-window.lib  sfml-system.lib'
